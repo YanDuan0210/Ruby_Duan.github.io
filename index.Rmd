@@ -29,7 +29,7 @@ Let's link to useful tools for data science:
 
 ## Local image
 
-Here's my dog:
+Here's my cute dog:
 
 ![](images/dog.jpg)
 
