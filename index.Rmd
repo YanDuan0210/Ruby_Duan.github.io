@@ -31,7 +31,9 @@ Let's link to useful tools for data science:
 
 Here's my cute dog:
 
-![](images/dog.jpg)
+![](images/dog.jpg) 
+
+<img src="images/dog.jpg" style="width:75%">
 
 ## Link to page within the site
 
